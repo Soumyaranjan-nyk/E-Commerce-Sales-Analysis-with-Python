@@ -40,4 +40,4 @@ Inventory Optimization: Ensure high-demand products are well-stocked during peak
 
 
 
-This project provides a comprehensive understanding of e-commerce sales dynamics, enabling data-driven decisions for sustained growth. It is a practical example of how Python-powered analytics can guide businesses in addressing challenges and seizing opportunities effectively.
+This project provides a comprehensive understanding of e-commerce sales dynamics, enabling data-driven decisions for sustained growth.
